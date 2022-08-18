@@ -1,0 +1,141 @@
+header{
+    width:100%;
+    height:250px;
+}
+
+#pic1{
+    display: block;
+    float:left;
+    background-color:rgb(34, 23, 2);
+    margin-top: 10px;
+    width: 300;
+    height: 400;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+#pic2{
+margin-top: 160px;
+float: right;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+}
+
+#sec1{
+    display:block;
+    float:left;
+    width:300px;
+    height:200px;
+    margin-top:260px;
+    margin-left:2px;
+    background-color:darkgrey;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+#para1{
+   width:700px;
+   height:200px;
+   margin-top:260px; 
+   float:left;
+   font-size:18px;
+   text-align:justify;
+   background-color:darkgrey;
+   border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+
+}
+
+
+#sec2{
+    display:block;
+    float:left;
+    width:300px;
+    height:200px;
+ margin-top: 290;
+    margin-left:2px;
+    background-color: white;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+
+    
+}
+
+
+#para2{
+    width:700px;
+    height:200px;
+  margin-top: 290;
+    float:left;
+    font-size:18px;
+    background-color: white;
+    border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+ }
+
+#new{
+    float:right;
+    margin-top: 2000;
+    margin-left: 70px;
+    font-size:20px;
+    background-color:lightslategrey;
+    border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
+
+
+#new2{
+    float:left;
+    width: 300;
+    height: 300;
+    font-size:20px;
+    margin-top: 20px;
+    text-align:justify;
+    background-color:lightgrey;
+    border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
+
+
+#new3{
+    display: block;
+    font-size: 18px;
+    float:right;
+    background-color: grey;
+    margin-top: 20px;
+    width: 400;
+    height: 400;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+
+#wesbites{
+    margin-top: 20px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    
+}
+
